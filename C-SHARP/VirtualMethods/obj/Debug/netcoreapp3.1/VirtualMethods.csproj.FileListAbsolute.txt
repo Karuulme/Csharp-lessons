@@ -1,0 +1,13 @@
+C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\VirtualMethods\bin\Debug\netcoreapp3.1\VirtualMethods.exe
+C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\VirtualMethods\bin\Debug\netcoreapp3.1\VirtualMethods.deps.json
+C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\VirtualMethods\bin\Debug\netcoreapp3.1\VirtualMethods.runtimeconfig.json
+C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\VirtualMethods\bin\Debug\netcoreapp3.1\VirtualMethods.runtimeconfig.dev.json
+C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\VirtualMethods\bin\Debug\netcoreapp3.1\VirtualMethods.dll
+C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\VirtualMethods\bin\Debug\netcoreapp3.1\VirtualMethods.pdb
+C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\VirtualMethods\obj\Debug\netcoreapp3.1\VirtualMethods.AssemblyInfoInputs.cache
+C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\VirtualMethods\obj\Debug\netcoreapp3.1\VirtualMethods.AssemblyInfo.cs
+C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\VirtualMethods\obj\Debug\netcoreapp3.1\VirtualMethods.csproj.CoreCompileInputs.cache
+C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\VirtualMethods\obj\Debug\netcoreapp3.1\VirtualMethods.dll
+C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\VirtualMethods\obj\Debug\netcoreapp3.1\VirtualMethods.pdb
+C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\VirtualMethods\obj\Debug\netcoreapp3.1\VirtualMethods.genruntimeconfig.cache
+C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\VirtualMethods\obj\Debug\netcoreapp3.1\VirtualMethods.csprojAssemblyReference.cache

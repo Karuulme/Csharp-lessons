@@ -1,0 +1,15 @@
+C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\C-SHARP\bin\Debug\netcoreapp3.1\C-SHARP.exe
+C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\C-SHARP\bin\Debug\netcoreapp3.1\C-SHARP.deps.json
+C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\C-SHARP\bin\Debug\netcoreapp3.1\C-SHARP.runtimeconfig.json
+C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\C-SHARP\bin\Debug\netcoreapp3.1\C-SHARP.runtimeconfig.dev.json
+C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\C-SHARP\bin\Debug\netcoreapp3.1\C-SHARP.dll
+C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\C-SHARP\bin\Debug\netcoreapp3.1\C-SHARP.pdb
+C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\C-SHARP\obj\Debug\netcoreapp3.1\C-SHARP.csprojAssemblyReference.cache
+C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\C-SHARP\obj\Debug\netcoreapp3.1\C_SHARP.Form1.resources
+C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\C-SHARP\obj\Debug\netcoreapp3.1\C-SHARP.csproj.GenerateResource.cache
+C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\C-SHARP\obj\Debug\netcoreapp3.1\C-SHARP.AssemblyInfoInputs.cache
+C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\C-SHARP\obj\Debug\netcoreapp3.1\C-SHARP.AssemblyInfo.cs
+C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\C-SHARP\obj\Debug\netcoreapp3.1\C-SHARP.csproj.CoreCompileInputs.cache
+C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\C-SHARP\obj\Debug\netcoreapp3.1\C-SHARP.dll
+C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\C-SHARP\obj\Debug\netcoreapp3.1\C-SHARP.pdb
+C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\C-SHARP\obj\Debug\netcoreapp3.1\C-SHARP.genruntimeconfig.cache

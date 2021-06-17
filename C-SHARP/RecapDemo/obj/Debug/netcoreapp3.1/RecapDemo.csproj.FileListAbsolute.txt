@@ -1,0 +1,13 @@
+C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\RecapDemo\bin\Debug\netcoreapp3.1\RecapDemo.exe
+C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\RecapDemo\bin\Debug\netcoreapp3.1\RecapDemo.deps.json
+C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\RecapDemo\bin\Debug\netcoreapp3.1\RecapDemo.runtimeconfig.json
+C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\RecapDemo\bin\Debug\netcoreapp3.1\RecapDemo.runtimeconfig.dev.json
+C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\RecapDemo\bin\Debug\netcoreapp3.1\RecapDemo.dll
+C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\RecapDemo\bin\Debug\netcoreapp3.1\RecapDemo.pdb
+C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\RecapDemo\obj\Debug\netcoreapp3.1\RecapDemo.csprojAssemblyReference.cache
+C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\RecapDemo\obj\Debug\netcoreapp3.1\RecapDemo.AssemblyInfoInputs.cache
+C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\RecapDemo\obj\Debug\netcoreapp3.1\RecapDemo.AssemblyInfo.cs
+C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\RecapDemo\obj\Debug\netcoreapp3.1\RecapDemo.csproj.CoreCompileInputs.cache
+C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\RecapDemo\obj\Debug\netcoreapp3.1\RecapDemo.dll
+C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\RecapDemo\obj\Debug\netcoreapp3.1\RecapDemo.pdb
+C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\RecapDemo\obj\Debug\netcoreapp3.1\RecapDemo.genruntimeconfig.cache
