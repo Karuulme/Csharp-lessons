@@ -12,16 +12,16 @@ namespace AdoNet
     public class ProductDal
     {
 
-      public  List<Product> GetAll()
+        SqlConnection _connection = new SqlConnection(@"server=(localdb)\mssqllocaldb;initial catalog=ETrade;integrated security=true");
+        public  List<Product> GetAll()
         {
-            SqlConnection connection = new SqlConnection(@"server=(localdb)\mssqllocaldb;initial catalog=ETrade;integrated security=true");
 
-            if (connection.State==ConnectionState.Closed)
+            if (_connection.State==ConnectionState.Closed)
             {
-                connection.Open();
+                _connection.Open();
 
             }
-            SqlCommand command = new SqlCommand("Select * from Products",connection);
+            SqlCommand command = new SqlCommand("Select * from Products",_connection);
 
             SqlDataReader reader= command.ExecuteReader();
             List<Product> products = new List<Product>();
@@ -44,7 +44,7 @@ namespace AdoNet
             }
 
             reader.Close();
-            connection.Close();
+            _connection.Close();
             return products;
 
         }
@@ -75,12 +75,32 @@ namespace AdoNet
 
 
 
+        public void Add(Product product)
+        {
 
+            if (_connection.State == ConnectionState.Closed)
+            {
+                _connection.Open();
+
+            }
+            SqlCommand commed = new SqlCommand(
+                "INSERT INTO Products values(@name,@unitPrice,@stockAmount)",_connection);
+
+            commed.Parameters.AddWithValue("@name",product.Name);
+            commed.Parameters.AddWithValue("@unitPrice", product.UnitPrice);
+            commed.Parameters.AddWithValue("@stockAmount", product.StockAmount);
+            commed.ExecuteNonQuery();
+            _connection.Close();
+
+
+
+        }
 
 
 
 
 
     }
+
    
 }
