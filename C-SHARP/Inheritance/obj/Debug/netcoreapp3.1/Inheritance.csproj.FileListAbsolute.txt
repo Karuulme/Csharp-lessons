@@ -1,0 +1,13 @@
+C:\Users\karuu\Desktop\C#\C-SHARP\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.csproj.AssemblyReference.cache
+C:\Users\karuu\Desktop\C#\C-SHARP\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.AssemblyInfoInputs.cache
+C:\Users\karuu\Desktop\C#\C-SHARP\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.AssemblyInfo.cs
+C:\Users\karuu\Desktop\C#\C-SHARP\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\karuu\Desktop\C#\C-SHARP\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.exe
+C:\Users\karuu\Desktop\C#\C-SHARP\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.deps.json
+C:\Users\karuu\Desktop\C#\C-SHARP\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.runtimeconfig.json
+C:\Users\karuu\Desktop\C#\C-SHARP\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.runtimeconfig.dev.json
+C:\Users\karuu\Desktop\C#\C-SHARP\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.dll
+C:\Users\karuu\Desktop\C#\C-SHARP\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.pdb
+C:\Users\karuu\Desktop\C#\C-SHARP\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.dll
+C:\Users\karuu\Desktop\C#\C-SHARP\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.pdb
+C:\Users\karuu\Desktop\C#\C-SHARP\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.genruntimeconfig.cache

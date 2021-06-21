@@ -11,3 +11,16 @@ C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\Interfaces\obj\Debug\netcoreapp3.1
 C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
 C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb
 C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.genruntimeconfig.cache
+C:\Users\karuu\Desktop\C#\C-SHARP\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.exe
+C:\Users\karuu\Desktop\C#\C-SHARP\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+C:\Users\karuu\Desktop\C#\C-SHARP\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.json
+C:\Users\karuu\Desktop\C#\C-SHARP\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.dev.json
+C:\Users\karuu\Desktop\C#\C-SHARP\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\karuu\Desktop\C#\C-SHARP\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\karuu\Desktop\C#\C-SHARP\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.AssemblyReference.cache
+C:\Users\karuu\Desktop\C#\C-SHARP\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+C:\Users\karuu\Desktop\C#\C-SHARP\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+C:\Users\karuu\Desktop\C#\C-SHARP\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\karuu\Desktop\C#\C-SHARP\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\karuu\Desktop\C#\C-SHARP\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\karuu\Desktop\C#\C-SHARP\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\karuu\\OneDrive\\Masaüstü\\C#\\C-SHARP\\Interfaces\\Interfaces.csproj": {}
+    "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\Interfaces\\Interfaces.csproj": {}
   },
   "projects": {
-    "C:\\Users\\karuu\\OneDrive\\Masaüstü\\C#\\C-SHARP\\Interfaces\\Interfaces.csproj": {
+    "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\Interfaces\\Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\karuu\\OneDrive\\Masaüstü\\C#\\C-SHARP\\Interfaces\\Interfaces.csproj",
+        "projectUniqueName": "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\Interfaces\\Interfaces.csproj",
         "projectName": "Interfaces",
-        "projectPath": "C:\\Users\\karuu\\OneDrive\\Masaüstü\\C#\\C-SHARP\\Interfaces\\Interfaces.csproj",
+        "projectPath": "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\Interfaces\\Interfaces.csproj",
         "packagesPath": "C:\\Users\\karuu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\karuu\\OneDrive\\Masaüstü\\C#\\C-SHARP\\Interfaces\\obj\\",
+        "outputPath": "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\Interfaces\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\karuu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

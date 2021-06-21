@@ -6,46 +6,43 @@ namespace VirtualMethods
     {
         static void Main(string[] args)
         {
+
             SqlServer sqlServer = new SqlServer();
             sqlServer.Add();
             Mysql mysql = new Mysql();
             mysql.Add();
-            Console.ReadLine();
         }
     }
-    class Datebase
+    class Database
     {
         public virtual void Add()
-        { 
+        {
 
-            Console.WriteLine("Added");
+            Console.WriteLine("Eklendi");
 
         }
         public virtual void Delete()
         {
 
-            Console.WriteLine("Delete");
-
-
-
+            Console.WriteLine("Silindi");
         }
 
 
     }
-    class SqlServer : Datebase
+    class SqlServer : Database
     {
+
         public override void Add()
         {
-            Console.WriteLine("Added Sql Server");
-            //base.Add();
+            Console.WriteLine("Sql Server Add");
         }
 
-
     }
-    class Mysql : Datebase
+    class Mysql : Database
     {
 
 
 
     }
+   
 }

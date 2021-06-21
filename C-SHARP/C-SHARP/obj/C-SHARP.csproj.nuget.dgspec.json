@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\karuu\\OneDrive\\Masaüstü\\C#\\C-SHARP\\C-SHARP\\C-SHARP.csproj": {}
+    "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\C-SHARP\\C-SHARP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\karuu\\OneDrive\\Masaüstü\\C#\\C-SHARP\\C-SHARP\\C-SHARP.csproj": {
+    "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\C-SHARP\\C-SHARP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\karuu\\OneDrive\\Masaüstü\\C#\\C-SHARP\\C-SHARP\\C-SHARP.csproj",
+        "projectUniqueName": "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\C-SHARP\\C-SHARP.csproj",
         "projectName": "C-SHARP",
-        "projectPath": "C:\\Users\\karuu\\OneDrive\\Masaüstü\\C#\\C-SHARP\\C-SHARP\\C-SHARP.csproj",
+        "projectPath": "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\C-SHARP\\C-SHARP.csproj",
         "packagesPath": "C:\\Users\\karuu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\karuu\\OneDrive\\Masaüstü\\C#\\C-SHARP\\C-SHARP\\obj\\",
+        "outputPath": "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\C-SHARP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\karuu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -57,7 +57,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

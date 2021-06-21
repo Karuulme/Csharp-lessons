@@ -29,7 +29,7 @@ namespace Interfaces
             {
                 new SqlServerCostomerDal(),
                 new OracleCostomerDal(),
-            new MysqlCostomerDal()
+              new MysqlCostomerDal()
 
 
             };

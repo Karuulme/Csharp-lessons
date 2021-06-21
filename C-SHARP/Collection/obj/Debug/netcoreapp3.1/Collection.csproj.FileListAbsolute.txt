@@ -11,3 +11,16 @@ C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\Collection\obj\Debug\netcoreapp3.1
 C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\Collection\obj\Debug\netcoreapp3.1\Collection.pdb
 C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\Collection\obj\Debug\netcoreapp3.1\Collection.genruntimeconfig.cache
 C:\Users\karuu\OneDrive\Masaüstü\C#\C-SHARP\Collection\obj\Debug\netcoreapp3.1\Collection.csprojAssemblyReference.cache
+C:\Users\karuu\Desktop\C#\C-SHARP\Collection\bin\Debug\netcoreapp3.1\Collection.exe
+C:\Users\karuu\Desktop\C#\C-SHARP\Collection\bin\Debug\netcoreapp3.1\Collection.deps.json
+C:\Users\karuu\Desktop\C#\C-SHARP\Collection\bin\Debug\netcoreapp3.1\Collection.runtimeconfig.json
+C:\Users\karuu\Desktop\C#\C-SHARP\Collection\bin\Debug\netcoreapp3.1\Collection.runtimeconfig.dev.json
+C:\Users\karuu\Desktop\C#\C-SHARP\Collection\bin\Debug\netcoreapp3.1\Collection.dll
+C:\Users\karuu\Desktop\C#\C-SHARP\Collection\bin\Debug\netcoreapp3.1\Collection.pdb
+C:\Users\karuu\Desktop\C#\C-SHARP\Collection\obj\Debug\netcoreapp3.1\Collection.csproj.AssemblyReference.cache
+C:\Users\karuu\Desktop\C#\C-SHARP\Collection\obj\Debug\netcoreapp3.1\Collection.AssemblyInfoInputs.cache
+C:\Users\karuu\Desktop\C#\C-SHARP\Collection\obj\Debug\netcoreapp3.1\Collection.AssemblyInfo.cs
+C:\Users\karuu\Desktop\C#\C-SHARP\Collection\obj\Debug\netcoreapp3.1\Collection.csproj.CoreCompileInputs.cache
+C:\Users\karuu\Desktop\C#\C-SHARP\Collection\obj\Debug\netcoreapp3.1\Collection.dll
+C:\Users\karuu\Desktop\C#\C-SHARP\Collection\obj\Debug\netcoreapp3.1\Collection.pdb
+C:\Users\karuu\Desktop\C#\C-SHARP\Collection\obj\Debug\netcoreapp3.1\Collection.genruntimeconfig.cache

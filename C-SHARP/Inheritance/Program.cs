@@ -6,14 +6,15 @@ namespace Inheritance
     {
         static void Main(string[] args)
         {
-            Person[] person = new Person[1]
-            {
-               new Customer()
-                
-
-
+            Person[] person = new Person[3] { 
+            new Customer{FirstName="Muhammet"},
+            new Student{FirstName="Emir"},
+            new Student{FirstName="berk"}
             };
 
+            foreach (var i in person) {
+                Console.WriteLine(i.FirstName);
+            }
 
         }
 
@@ -28,16 +29,15 @@ namespace Inheritance
     }
     class Customer : Person
     {
-        public string City { get; set; }
-
+        public string city { get; set; }
 
     }
     class Student : Person
     {
-        public string Department { get; set; }
-
+        public string Depertman { get; set; }
 
     }
+
 
 
 

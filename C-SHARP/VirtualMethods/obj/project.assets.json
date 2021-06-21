@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\karuu\\OneDrive\\Masaüstü\\C#\\C-SHARP\\VirtualMethods\\VirtualMethods.csproj",
+      "projectUniqueName": "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\VirtualMethods\\VirtualMethods.csproj",
       "projectName": "VirtualMethods",
-      "projectPath": "C:\\Users\\karuu\\OneDrive\\Masaüstü\\C#\\C-SHARP\\VirtualMethods\\VirtualMethods.csproj",
+      "projectPath": "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\VirtualMethods\\VirtualMethods.csproj",
       "packagesPath": "C:\\Users\\karuu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\karuu\\OneDrive\\Masaüstü\\C#\\C-SHARP\\VirtualMethods\\obj\\",
+      "outputPath": "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\VirtualMethods\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\karuu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

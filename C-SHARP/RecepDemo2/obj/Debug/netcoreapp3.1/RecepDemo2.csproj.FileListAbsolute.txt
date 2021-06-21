@@ -1,0 +1,13 @@
+C:\Users\karuu\Desktop\C#\C-SHARP\RecepDemo2\bin\Debug\netcoreapp3.1\RecepDemo2.exe
+C:\Users\karuu\Desktop\C#\C-SHARP\RecepDemo2\bin\Debug\netcoreapp3.1\RecepDemo2.deps.json
+C:\Users\karuu\Desktop\C#\C-SHARP\RecepDemo2\bin\Debug\netcoreapp3.1\RecepDemo2.runtimeconfig.json
+C:\Users\karuu\Desktop\C#\C-SHARP\RecepDemo2\bin\Debug\netcoreapp3.1\RecepDemo2.runtimeconfig.dev.json
+C:\Users\karuu\Desktop\C#\C-SHARP\RecepDemo2\bin\Debug\netcoreapp3.1\RecepDemo2.dll
+C:\Users\karuu\Desktop\C#\C-SHARP\RecepDemo2\bin\Debug\netcoreapp3.1\RecepDemo2.pdb
+C:\Users\karuu\Desktop\C#\C-SHARP\RecepDemo2\obj\Debug\netcoreapp3.1\RecepDemo2.csproj.AssemblyReference.cache
+C:\Users\karuu\Desktop\C#\C-SHARP\RecepDemo2\obj\Debug\netcoreapp3.1\RecepDemo2.AssemblyInfoInputs.cache
+C:\Users\karuu\Desktop\C#\C-SHARP\RecepDemo2\obj\Debug\netcoreapp3.1\RecepDemo2.AssemblyInfo.cs
+C:\Users\karuu\Desktop\C#\C-SHARP\RecepDemo2\obj\Debug\netcoreapp3.1\RecepDemo2.csproj.CoreCompileInputs.cache
+C:\Users\karuu\Desktop\C#\C-SHARP\RecepDemo2\obj\Debug\netcoreapp3.1\RecepDemo2.dll
+C:\Users\karuu\Desktop\C#\C-SHARP\RecepDemo2\obj\Debug\netcoreapp3.1\RecepDemo2.pdb
+C:\Users\karuu\Desktop\C#\C-SHARP\RecepDemo2\obj\Debug\netcoreapp3.1\RecepDemo2.genruntimeconfig.cache

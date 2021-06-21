@@ -12,7 +12,6 @@ namespace InterfaceDemo
                 new Worker(),
                 new Robot()
 
-
             };
             foreach (var workk in work )
             {
