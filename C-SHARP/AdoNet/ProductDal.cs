@@ -95,6 +95,47 @@ namespace AdoNet
 
 
         }
+        public void Update(Product product)
+        {
+
+            if (_connection.State == ConnectionState.Closed)
+            {
+                _connection.Open();
+
+            }
+            SqlCommand commed = new SqlCommand(
+                "Update  Products set Name=@name,UnitPrice=@unitPrice, StockAmount=@stockAmount where Id=@Id", _connection);
+
+            commed.Parameters.AddWithValue("@name", product.Name);
+            commed.Parameters.AddWithValue("@unitPrice", product.UnitPrice);
+            commed.Parameters.AddWithValue("@stockAmount", product.StockAmount);
+            commed.Parameters.AddWithValue("@Id", product.Id);
+            commed.ExecuteNonQuery();
+            _connection.Close();
+
+
+
+        }
+
+        public void Delete(int id)
+        {
+           
+
+            if (_connection.State == ConnectionState.Closed)
+            {
+                _connection.Open();
+
+            }
+            SqlCommand commed = new SqlCommand(
+                "DELETE FROM Products WHERE Id=@id", _connection);
+
+            commed.Parameters.AddWithValue("@Id",id);
+            commed.ExecuteNonQuery();
+            _connection.Close();
+
+
+
+        }
 
 
 
