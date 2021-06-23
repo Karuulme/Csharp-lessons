@@ -1,0 +1,15 @@
+C:\Users\karuu\Desktop\C#\C-SHARP\EntityFramework\bin\Debug\EntityFramework.exe.config
+C:\Users\karuu\Desktop\C#\C-SHARP\EntityFramework\bin\Debug\EntityFramework.exe
+C:\Users\karuu\Desktop\C#\C-SHARP\EntityFramework\bin\Debug\EntityFramework.pdb
+C:\Users\karuu\Desktop\C#\C-SHARP\EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\karuu\Desktop\C#\C-SHARP\EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\karuu\Desktop\C#\C-SHARP\EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\karuu\Desktop\C#\C-SHARP\EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\karuu\Desktop\C#\C-SHARP\EntityFramework\obj\Debug\EntityFramework.csproj.AssemblyReference.cache
+C:\Users\karuu\Desktop\C#\C-SHARP\EntityFramework\obj\Debug\EntityFramework.Form1.resources
+C:\Users\karuu\Desktop\C#\C-SHARP\EntityFramework\obj\Debug\EntityFramework.Properties.Resources.resources
+C:\Users\karuu\Desktop\C#\C-SHARP\EntityFramework\obj\Debug\EntityFramework.csproj.GenerateResource.cache
+C:\Users\karuu\Desktop\C#\C-SHARP\EntityFramework\obj\Debug\EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\karuu\Desktop\C#\C-SHARP\EntityFramework\obj\Debug\EntityFramework.csproj.CopyComplete
+C:\Users\karuu\Desktop\C#\C-SHARP\EntityFramework\obj\Debug\EntityFramework.exe
+C:\Users\karuu\Desktop\C#\C-SHARP\EntityFramework\obj\Debug\EntityFramework.pdb
