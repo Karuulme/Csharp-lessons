@@ -74,5 +74,32 @@ namespace EntityFramework
 
 
         }
+
+        private void tbxSearch_TextChanged(object sender, EventArgs e)
+        {
+
+
+            
+            SearchProducts(tbxSearch.Text);
+
+
+
+        }
+
+        public void SearchProducts(string key)
+        {
+
+              var a = _productDal.GetAll().Where(p => p.Name.ToLower().Contains(key.ToLower())).ToList();
+          //  var a = _productDal.GetByName(key);
+            dgwProduct.DataSource = a;
+
+        }
+
+        private void GetById_Click(object sender, EventArgs e)
+        {
+            _productDal.GetById(1);
+
+
+        }
     }
 }

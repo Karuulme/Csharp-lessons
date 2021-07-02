@@ -47,6 +47,8 @@ namespace AdoNet
             this.tbxUnitPrice = new System.Windows.Forms.TextBox();
             this.tbxStockAmount = new System.Windows.Forms.TextBox();
             this.dgwProducts = new System.Windows.Forms.DataGridView();
+            this.tbxSourc = new System.Windows.Forms.TextBox();
+            this.label1 = new System.Windows.Forms.Label();
             this.groupBox2.SuspendLayout();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgwProducts)).BeginInit();
@@ -218,11 +220,30 @@ namespace AdoNet
             this.dgwProducts.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgwProducts_CellClick_1);
             this.dgwProducts.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgwProducts_CellContentClick_1);
             // 
+            // tbxSourc
+            // 
+            this.tbxSourc.Location = new System.Drawing.Point(106, 17);
+            this.tbxSourc.Name = "tbxSourc";
+            this.tbxSourc.Size = new System.Drawing.Size(289, 23);
+            this.tbxSourc.TabIndex = 15;
+            this.tbxSourc.TextChanged += new System.EventHandler(this.textBox1_TextChanged_1);
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(58, 21);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(42, 15);
+            this.label1.TabIndex = 16;
+            this.label1.Text = "Arama";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.tbxSourc);
             this.Controls.Add(this.btnRemove);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
@@ -236,6 +257,7 @@ namespace AdoNet
             this.groupBox1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgwProducts)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -259,6 +281,8 @@ namespace AdoNet
         private System.Windows.Forms.TextBox tbxUnitPrice;
         private System.Windows.Forms.TextBox tbxStockAmount;
         private System.Windows.Forms.DataGridView dgwProducts;
+        private System.Windows.Forms.TextBox tbxSourc;
+        private System.Windows.Forms.Label label1;
     }
 }
 

@@ -47,6 +47,9 @@ namespace EntityFramework
             this.label5 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.button3 = new System.Windows.Forms.Button();
+            this.tbxSearch = new System.Windows.Forms.TextBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.GetById = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgwProduct)).BeginInit();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
@@ -219,11 +222,41 @@ namespace EntityFramework
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
+            // tbxSearch
+            // 
+            this.tbxSearch.Location = new System.Drawing.Point(392, 12);
+            this.tbxSearch.Name = "tbxSearch";
+            this.tbxSearch.Size = new System.Drawing.Size(209, 20);
+            this.tbxSearch.TabIndex = 4;
+            this.tbxSearch.TextChanged += new System.EventHandler(this.tbxSearch_TextChanged);
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(345, 18);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(41, 13);
+            this.label1.TabIndex = 5;
+            this.label1.Text = "Search";
+            // 
+            // GetById
+            // 
+            this.GetById.Location = new System.Drawing.Point(679, 18);
+            this.GetById.Name = "GetById";
+            this.GetById.Size = new System.Drawing.Size(75, 23);
+            this.GetById.TabIndex = 6;
+            this.GetById.Text = "Get By Id";
+            this.GetById.UseVisualStyleBackColor = true;
+            this.GetById.Click += new System.EventHandler(this.GetById_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(798, 474);
+            this.Controls.Add(this.GetById);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.tbxSearch);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
@@ -237,6 +270,7 @@ namespace EntityFramework
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -260,6 +294,9 @@ namespace EntityFramework
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.TextBox tbxSearch;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button GetById;
     }
 }
 

@@ -127,5 +127,24 @@ namespace AdoNet
         {
 
         }
+
+        private void textBox1_TextChanged_1(object sender, EventArgs e)
+        {
+
+            SearchProducts(tbxSourc.Text);
+
+
+
+        }
+
+        public void SearchProducts(string key)
+        {
+          
+           var a = _productDal.GetAll().Where(p=>p.Name.Contains(key)).ToList();
+
+            dgwProducts.DataSource = a;
+
+        }
+
     }
 }
