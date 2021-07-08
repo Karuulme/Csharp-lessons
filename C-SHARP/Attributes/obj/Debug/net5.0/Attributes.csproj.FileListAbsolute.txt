@@ -1,0 +1,16 @@
+C:\Users\karuu\Desktop\C#\C-SHARP\Attributes\obj\Debug\net5.0\Attributes.csproj.AssemblyReference.cache
+C:\Users\karuu\Desktop\C#\C-SHARP\Attributes\obj\Debug\net5.0\Attributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karuu\Desktop\C#\C-SHARP\Attributes\obj\Debug\net5.0\Attributes.AssemblyInfoInputs.cache
+C:\Users\karuu\Desktop\C#\C-SHARP\Attributes\obj\Debug\net5.0\Attributes.AssemblyInfo.cs
+C:\Users\karuu\Desktop\C#\C-SHARP\Attributes\obj\Debug\net5.0\Attributes.csproj.CoreCompileInputs.cache
+C:\Users\karuu\Desktop\C#\C-SHARP\Attributes\bin\Debug\net5.0\Attributes.exe
+C:\Users\karuu\Desktop\C#\C-SHARP\Attributes\bin\Debug\net5.0\Attributes.deps.json
+C:\Users\karuu\Desktop\C#\C-SHARP\Attributes\bin\Debug\net5.0\Attributes.runtimeconfig.json
+C:\Users\karuu\Desktop\C#\C-SHARP\Attributes\bin\Debug\net5.0\Attributes.runtimeconfig.dev.json
+C:\Users\karuu\Desktop\C#\C-SHARP\Attributes\bin\Debug\net5.0\Attributes.dll
+C:\Users\karuu\Desktop\C#\C-SHARP\Attributes\bin\Debug\net5.0\ref\Attributes.dll
+C:\Users\karuu\Desktop\C#\C-SHARP\Attributes\bin\Debug\net5.0\Attributes.pdb
+C:\Users\karuu\Desktop\C#\C-SHARP\Attributes\obj\Debug\net5.0\Attributes.dll
+C:\Users\karuu\Desktop\C#\C-SHARP\Attributes\obj\Debug\net5.0\ref\Attributes.dll
+C:\Users\karuu\Desktop\C#\C-SHARP\Attributes\obj\Debug\net5.0\Attributes.pdb
+C:\Users\karuu\Desktop\C#\C-SHARP\Attributes\obj\Debug\net5.0\Attributes.genruntimeconfig.cache
