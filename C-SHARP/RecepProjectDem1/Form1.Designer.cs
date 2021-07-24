@@ -34,11 +34,11 @@ namespace RecepProjectDem1
             this.label1 = new System.Windows.Forms.Label();
             this.txbName = new System.Windows.Forms.GroupBox();
             this.label2 = new System.Windows.Forms.Label();
-            this.dgbProducts = new System.Windows.Forms.DataGridView();
+            this.dgwProduct = new System.Windows.Forms.DataGridView();
             this.tbxSearch = new System.Windows.Forms.TextBox();
             this.gbxcatagori.SuspendLayout();
             this.txbName.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dgbProducts)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgwProduct)).BeginInit();
             this.SuspendLayout();
             // 
             // gbxcatagori
@@ -59,6 +59,7 @@ namespace RecepProjectDem1
             this.cbxCatagori.Name = "cbxCatagori";
             this.cbxCatagori.Size = new System.Drawing.Size(202, 21);
             this.cbxCatagori.TabIndex = 0;
+            this.cbxCatagori.SelectedIndexChanged += new System.EventHandler(this.cbxCatagori_SelectedIndexChanged);
             // 
             // label1
             // 
@@ -89,13 +90,13 @@ namespace RecepProjectDem1
             this.label2.TabIndex = 0;
             this.label2.Text = "İsme Göre";
             // 
-            // dgbProducts
+            // dgwProduct
             // 
-            this.dgbProducts.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgbProducts.Location = new System.Drawing.Point(12, 260);
-            this.dgbProducts.Name = "dgbProducts";
-            this.dgbProducts.Size = new System.Drawing.Size(970, 256);
-            this.dgbProducts.TabIndex = 2;
+            this.dgwProduct.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgwProduct.Location = new System.Drawing.Point(12, 260);
+            this.dgwProduct.Name = "dgwProduct";
+            this.dgwProduct.Size = new System.Drawing.Size(970, 256);
+            this.dgwProduct.TabIndex = 2;
             // 
             // tbxSearch
             // 
@@ -104,13 +105,14 @@ namespace RecepProjectDem1
             this.tbxSearch.Name = "tbxSearch";
             this.tbxSearch.Size = new System.Drawing.Size(202, 20);
             this.tbxSearch.TabIndex = 1;
+            this.tbxSearch.TextChanged += new System.EventHandler(this.tbxSearch_TextChanged);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(994, 642);
-            this.Controls.Add(this.dgbProducts);
+            this.Controls.Add(this.dgwProduct);
             this.Controls.Add(this.txbName);
             this.Controls.Add(this.gbxcatagori);
             this.Name = "Form1";
@@ -120,7 +122,7 @@ namespace RecepProjectDem1
             this.gbxcatagori.PerformLayout();
             this.txbName.ResumeLayout(false);
             this.txbName.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dgbProducts)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgwProduct)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -133,7 +135,7 @@ namespace RecepProjectDem1
         private System.Windows.Forms.GroupBox txbName;
         private System.Windows.Forms.TextBox tbxSearch;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.DataGridView dgbProducts;
+        private System.Windows.Forms.DataGridView dgwProduct;
     }
 }
 

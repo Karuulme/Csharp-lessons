@@ -13,7 +13,7 @@ namespace RecepProjectDem1
 
            public DbSet<Product> Products { get; set; }
 
-
+            public DbSet<Category> Catagori { get; set; }
 
     }
 }

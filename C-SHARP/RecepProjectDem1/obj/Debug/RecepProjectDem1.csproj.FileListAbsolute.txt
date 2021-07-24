@@ -8,3 +8,8 @@ C:\Users\karuu\Desktop\C#\C-SHARP\RecepProjectDem1\obj\Debug\RecepProjectDem1.cs
 C:\Users\karuu\Desktop\C#\C-SHARP\RecepProjectDem1\obj\Debug\RecepProjectDem1.csproj.CoreCompileInputs.cache
 C:\Users\karuu\Desktop\C#\C-SHARP\RecepProjectDem1\obj\Debug\RecepProjectDem1.exe
 C:\Users\karuu\Desktop\C#\C-SHARP\RecepProjectDem1\obj\Debug\RecepProjectDem1.pdb
+C:\Users\karuu\Desktop\C#\C-SHARP\RecepProjectDem1\bin\Debug\EntityFramework.dll
+C:\Users\karuu\Desktop\C#\C-SHARP\RecepProjectDem1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\karuu\Desktop\C#\C-SHARP\RecepProjectDem1\bin\Debug\EntityFramework.xml
+C:\Users\karuu\Desktop\C#\C-SHARP\RecepProjectDem1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\karuu\Desktop\C#\C-SHARP\RecepProjectDem1\obj\Debug\RecepProjectDem1.csproj.CopyComplete
