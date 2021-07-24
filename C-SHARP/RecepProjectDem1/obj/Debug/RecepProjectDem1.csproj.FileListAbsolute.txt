@@ -1,0 +1,10 @@
+C:\Users\karuu\Desktop\C#\C-SHARP\RecepProjectDem1\bin\Debug\RecepProjectDem1.exe.config
+C:\Users\karuu\Desktop\C#\C-SHARP\RecepProjectDem1\bin\Debug\RecepProjectDem1.exe
+C:\Users\karuu\Desktop\C#\C-SHARP\RecepProjectDem1\bin\Debug\RecepProjectDem1.pdb
+C:\Users\karuu\Desktop\C#\C-SHARP\RecepProjectDem1\obj\Debug\RecepProjectDem1.csproj.AssemblyReference.cache
+C:\Users\karuu\Desktop\C#\C-SHARP\RecepProjectDem1\obj\Debug\RecepProjectDem1.Form1.resources
+C:\Users\karuu\Desktop\C#\C-SHARP\RecepProjectDem1\obj\Debug\RecepProjectDem1.Properties.Resources.resources
+C:\Users\karuu\Desktop\C#\C-SHARP\RecepProjectDem1\obj\Debug\RecepProjectDem1.csproj.GenerateResource.cache
+C:\Users\karuu\Desktop\C#\C-SHARP\RecepProjectDem1\obj\Debug\RecepProjectDem1.csproj.CoreCompileInputs.cache
+C:\Users\karuu\Desktop\C#\C-SHARP\RecepProjectDem1\obj\Debug\RecepProjectDem1.exe
+C:\Users\karuu\Desktop\C#\C-SHARP\RecepProjectDem1\obj\Debug\RecepProjectDem1.pdb
