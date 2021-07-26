@@ -1,4 +1,6 @@
-﻿using Northwind.Business.Concrete;
+﻿using Northwind.Business.Abstract;
+using Northwind.Business.Concrete;
+using Northwind.DataAccess.Concrete.Mysql;
 using Northwind.Entitys.Concrete;
 using System;
 using System.Collections.Generic;
@@ -17,17 +19,19 @@ namespace Northwind.WebFormUI
         public Form1()
         {
             InitializeComponent();
+            _productService = new ProductManager(new MysqlDatabase());
         }
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
 
         }
-
+        private IProductService _productService; 
         private void Form1_Load(object sender, EventArgs e)
         {
-            ProductManager productManager = new ProductManager();
-            dgwProduct.DataSource = productManager.GetAll();
+           
+
+            dgwProduct.DataSource = _productService.GetAll();
 
         }
     }

@@ -5,9 +5,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Northwind.DataAccess.Concrete
+namespace Northwind.DataAccess.Concrete.EntityFramework
 {
-   public class PorductDal
+   public class EfPorductDal: IProductDal
     {
         public List<Product> GetAll()
         {
