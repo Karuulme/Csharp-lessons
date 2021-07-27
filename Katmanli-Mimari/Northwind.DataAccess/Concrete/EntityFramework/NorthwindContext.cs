@@ -12,7 +12,8 @@ namespace Northwind.DataAccess.Concrete.EntityFramework
   public  class NorthwindContext:DbContext
     {
         public DbSet<Product>  Products { get; set;}
-        
+        public DbSet<Category> Categorys { get; set; }
+
 
     }
 }

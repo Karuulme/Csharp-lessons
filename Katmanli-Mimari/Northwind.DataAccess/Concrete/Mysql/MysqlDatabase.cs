@@ -3,6 +3,7 @@ using Northwind.Entitys.Concrete;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -19,26 +20,14 @@ namespace Northwind.DataAccess.Concrete.Mysql
         {
             throw new NotImplementedException();
         }
-
-        public Product Get(int id)
+        public Product Get(Expression<Func<Product, bool>> filter = null)
         {
             throw new NotImplementedException();
         }
 
-        public List<Product> GetAll()
+        public List<Product> GetAll(Expression<Func<Product, bool>> filter = null)
         {
-
-            List<Product> products = new List<Product>
-            {
-
-                new Product{ProductId=1,ProductName="laptop",CategoryId=1,QuantityPerUnit="1 kutu",UnitPrice=3000,UnitsInStock=55}
-
-            };
-            return products;
-
-
-
-
+            throw new NotImplementedException();
         }
 
         public void Update(Product product)
