@@ -1,0 +1,126 @@
+﻿
+
+.HPersonel{
+    
+    width:100%;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:7em;
+
+}
+.li{
+    width:25%;
+    float:left;
+
+}
+    .li li {
+        margin-top: 10px;
+        list-style-type: none;
+    }
+.Hastalar{
+    width:100%;
+
+   
+
+}
+
+
+.Alt_Bolum {
+    width: 100px;
+    height: 80px;
+    border-top: 1px solid rgba(0,0,0,.1);
+    float: none;
+    background:#000000;
+}
+.Tablo li table {
+    margin: 2%;
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.Tablo li img {
+    width: 85px;
+    border-radius: 100%;
+}
+.Tablo li {
+    width: 100%;
+    list-style-type: none;
+    float: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.Tablo {
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    overflow: hidden;
+    box-shadow: 0 4px 10px 0 rgb(0 0 0 / 20%), 0 4px 20px 0 rgb(0 0 0 / 19%);
+}
+
+.Nameoff {
+    font-size: 1em;
+    color: #9c9c9c;
+   
+    width:80px;
+   
+}
+.Nameon {
+    font-size: 1em;
+    padding: 10px;
+}
+
+
+.search{
+
+    width:100%;
+    padding:20px;
+    margin-bottom:10px;
+    
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

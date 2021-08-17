@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\AbstractClass\\AbstractClass.csproj": {}
+    "C:\\Users\\karuu\\Desktop\\Yeni klasör\\C#\\C-SHARP\\AbstractClass\\AbstractClass.csproj": {}
   },
   "projects": {
-    "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\AbstractClass\\AbstractClass.csproj": {
+    "C:\\Users\\karuu\\Desktop\\Yeni klasör\\C#\\C-SHARP\\AbstractClass\\AbstractClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\AbstractClass\\AbstractClass.csproj",
+        "projectUniqueName": "C:\\Users\\karuu\\Desktop\\Yeni klasör\\C#\\C-SHARP\\AbstractClass\\AbstractClass.csproj",
         "projectName": "AbstractClass",
-        "projectPath": "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\AbstractClass\\AbstractClass.csproj",
+        "projectPath": "C:\\Users\\karuu\\Desktop\\Yeni klasör\\C#\\C-SHARP\\AbstractClass\\AbstractClass.csproj",
         "packagesPath": "C:\\Users\\karuu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\AbstractClass\\obj\\",
+        "outputPath": "C:\\Users\\karuu\\Desktop\\Yeni klasör\\C#\\C-SHARP\\AbstractClass\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\karuu\\AppData\\Roaming\\NuGet\\NuGet.Config",

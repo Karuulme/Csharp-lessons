@@ -4,3 +4,9 @@ C:\Users\karuu\Desktop\C#\Katmanli-Mimari\Northwind.Entitys\obj\Debug\Northwind.
 C:\Users\karuu\Desktop\C#\Katmanli-Mimari\Northwind.Entitys\obj\Debug\Northwind.Entitys.csproj.CoreCompileInputs.cache
 C:\Users\karuu\Desktop\C#\Katmanli-Mimari\Northwind.Entitys\obj\Debug\Northwind.Entitys.dll
 C:\Users\karuu\Desktop\C#\Katmanli-Mimari\Northwind.Entitys\obj\Debug\Northwind.Entitys.pdb
+C:\Users\karuu\Desktop\Yeni klasör\C#\Katmanli-Mimari\Northwind.Entitys\bin\Debug\Northwind.Entitys.dll
+C:\Users\karuu\Desktop\Yeni klasör\C#\Katmanli-Mimari\Northwind.Entitys\bin\Debug\Northwind.Entitys.pdb
+C:\Users\karuu\Desktop\Yeni klasör\C#\Katmanli-Mimari\Northwind.Entitys\obj\Debug\Northwind.Entitys.csproj.AssemblyReference.cache
+C:\Users\karuu\Desktop\Yeni klasör\C#\Katmanli-Mimari\Northwind.Entitys\obj\Debug\Northwind.Entitys.csproj.CoreCompileInputs.cache
+C:\Users\karuu\Desktop\Yeni klasör\C#\Katmanli-Mimari\Northwind.Entitys\obj\Debug\Northwind.Entitys.dll
+C:\Users\karuu\Desktop\Yeni klasör\C#\Katmanli-Mimari\Northwind.Entitys\obj\Debug\Northwind.Entitys.pdb

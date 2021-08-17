@@ -1,0 +1,246 @@
+﻿
+
+
+.HPersonel {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.li {
+    width: 33%;
+    float: left;
+   
+}
+
+    .li li {
+        margin-top: 10px;
+        list-style-type: none;
+       
+    }
+
+.Hastalar {
+   
+    width: 100%;
+    margin:0px;
+    padding:0px;
+    box-shadow: 0 4px 10px 0 rgb(0 0 0 / 20%), 0 4px 20px 0 rgb(0 0 0 / 19%);
+}
+
+
+.Alt_Bolum {
+    width: 100px;
+    height: 80px;
+    border-top: 1px solid rgba(0,0,0,.1);
+    float: none;
+    background: #000000;
+}
+
+.Tablo li table {
+    margin: 2%;
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.Tablo img {
+    width: 85px;
+    border-radius: 100%;
+    margin:18px;
+    margin-right:10px;
+}
+
+.Tablo li {
+    width: 100%;
+    list-style-type: none;
+    float: left;
+    border-bottom: 1px solid #ddd;
+   
+}
+
+.Tablo {
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    overflow: hidden;
+
+}
+
+.Nameoff {
+    font-size: 1em;
+    color: #9c9c9c;
+    width: 80px;
+}
+.Nameon {
+    font-size: 1em;
+    padding: 6px;
+}
+
+
+#searchKey {
+    width: 100%;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+.basliklar {
+    font-size: 3em;
+    margin: 10px;
+ margin-bottom: 50px;
+}
+.Hastalar li{
+    list-style-type: none;
+    border-bottom:1px solid #9c9c9c;
+}
+.Yonelme a{
+    text-decoration:none;
+    color:#616161;
+    font-size:2em;
+
+
+}
+
+.Has-link {
+    text-decoration:none;
+    color:#333;
+    padding:5px;
+    margin:5px;
+
+
+
+}
+    .Has-link:hover {
+        color: #666;
+        text-decoration: none;
+    }
+
+.NewPatient {
+    text-decoration: none;
+}
+    .NewPatient button {
+        padding: 8px;
+       width: 150px;
+        border: 0px solid black;
+        color: #fff;
+        background: #22d47c;
+        box-shadow: 0 4px 10px 0 rgb(34 212 124), 0 4px 20px 0 rgb(0 0 0 / 19%)
+    }
+        .NewPatient button:hover {
+            color:#fff;
+            background: #22d47c;
+            box-shadow: 0 4px 10px 0 rgb(34 212 124), 0 4px 20px 0 rgb(0 0 0 / 19%)
+
+        }
+
+        .NewPatient button:focus {
+            border: 0px solid black;
+        }
+.input_name{
+    margin-top:20px;
+
+    text-align:left;
+    font-size:1.3em;
+
+}
+.HKabulTablo {
+    width :80%;
+        
+        margin-top:20px;margin-left:auto;margin-right:auto;
+}
+.devamAlani{
+width:90%;
+text-align:right;
+margin-top:25px;
+}
+.devamAlani button{
+
+    width:80px;
+    height:50px;
+
+}
+#HKabulTabloAbout {
+    margin-left: auto;
+    margin-right: auto;
+   width:80%;
+  margin-top:50px;
+  
+  
+}
+#HKabulTabloAbout input{
+    text-align:center
+}
+input[type=radio] {
+    position: absolute;
+    visibility: hidden;
+    display: none;
+    padding-bottom: 20px;
+   
+}
+
+label {
+ 
+    color: #9a929e;
+    display: inline-block;
+    cursor: pointer;
+    font-weight: bold;
+    padding: 17px;
+  
+    width: 33%;
+    text-align: center;
+    border-radius: 4px;
+}
+
+input[type="radio"]#option-one:checked + label {
+    background: #04a504;
+    color: #fff;
+}
+
+input[type="radio"]#option-two:checked + label {
+    background: #e8e800;
+    color: black;
+}
+
+input[type="radio"]#option-three:checked + label {
+    background: red;
+    color: #fff;
+}
+
+input[type=radio]:checked + label {
+    color: #ccc8ce;
+    background: #675f6b;
+}
+
+
+.radio-group {
+   
+    display: inline-block;
+    width:100%;
+    height:60px;
+    border-radius: 4px;
+    border:1px solid black;
+   
+}
+
+.select {
+    margin-top:15px;
+    position: relative;
+    display: block;
+    width: 100%;
+   height:65px;
+    font-size: 1.2em;
+    color: #60666d;
+   
+
+}
+
+
+.select2 {
+    margin-top: 15px;
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 65px;
+    font-size: 1.2em;
+    color: #60666d;
+}

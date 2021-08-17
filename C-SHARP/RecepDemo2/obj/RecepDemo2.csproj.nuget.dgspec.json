@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\RecepDemo2\\RecepDemo2.csproj": {}
+    "C:\\Users\\karuu\\Desktop\\Yeni klasör\\C#\\C-SHARP\\RecepDemo2\\RecepDemo2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\RecepDemo2\\RecepDemo2.csproj": {
+    "C:\\Users\\karuu\\Desktop\\Yeni klasör\\C#\\C-SHARP\\RecepDemo2\\RecepDemo2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\RecepDemo2\\RecepDemo2.csproj",
+        "projectUniqueName": "C:\\Users\\karuu\\Desktop\\Yeni klasör\\C#\\C-SHARP\\RecepDemo2\\RecepDemo2.csproj",
         "projectName": "RecepDemo2",
-        "projectPath": "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\RecepDemo2\\RecepDemo2.csproj",
+        "projectPath": "C:\\Users\\karuu\\Desktop\\Yeni klasör\\C#\\C-SHARP\\RecepDemo2\\RecepDemo2.csproj",
         "packagesPath": "C:\\Users\\karuu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\RecepDemo2\\obj\\",
+        "outputPath": "C:\\Users\\karuu\\Desktop\\Yeni klasör\\C#\\C-SHARP\\RecepDemo2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\karuu\\AppData\\Roaming\\NuGet\\NuGet.Config",

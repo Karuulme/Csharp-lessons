@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\Attributes\\Attributes.csproj",
+      "projectUniqueName": "C:\\Users\\karuu\\Desktop\\Yeni klasör\\C#\\C-SHARP\\Attributes\\Attributes.csproj",
       "projectName": "Attributes",
-      "projectPath": "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\Attributes\\Attributes.csproj",
+      "projectPath": "C:\\Users\\karuu\\Desktop\\Yeni klasör\\C#\\C-SHARP\\Attributes\\Attributes.csproj",
       "packagesPath": "C:\\Users\\karuu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\Attributes\\obj\\",
+      "outputPath": "C:\\Users\\karuu\\Desktop\\Yeni klasör\\C#\\C-SHARP\\Attributes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\karuu\\AppData\\Roaming\\NuGet\\NuGet.Config",

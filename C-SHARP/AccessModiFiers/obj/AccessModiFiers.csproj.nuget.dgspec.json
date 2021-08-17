@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\AccessModiFiers\\AccessModiFiers.csproj": {}
+    "C:\\Users\\karuu\\Desktop\\Yeni klasör\\C#\\C-SHARP\\AccessModiFiers\\AccessModiFiers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\AccessModiFiers\\AccessModiFiers.csproj": {
+    "C:\\Users\\karuu\\Desktop\\Yeni klasör\\C#\\C-SHARP\\AccessModiFiers\\AccessModiFiers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\AccessModiFiers\\AccessModiFiers.csproj",
+        "projectUniqueName": "C:\\Users\\karuu\\Desktop\\Yeni klasör\\C#\\C-SHARP\\AccessModiFiers\\AccessModiFiers.csproj",
         "projectName": "AccessModiFiers",
-        "projectPath": "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\AccessModiFiers\\AccessModiFiers.csproj",
+        "projectPath": "C:\\Users\\karuu\\Desktop\\Yeni klasör\\C#\\C-SHARP\\AccessModiFiers\\AccessModiFiers.csproj",
         "packagesPath": "C:\\Users\\karuu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\AccessModiFiers\\obj\\",
+        "outputPath": "C:\\Users\\karuu\\Desktop\\Yeni klasör\\C#\\C-SHARP\\AccessModiFiers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\karuu\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -12,3 +12,17 @@ C:\Users\karuu\Desktop\C#\Katmanli-Mimari\Northwind.DataAccess\obj\Debug\Northwi
 C:\Users\karuu\Desktop\C#\Katmanli-Mimari\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csproj.CopyComplete
 C:\Users\karuu\Desktop\C#\Katmanli-Mimari\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.dll
 C:\Users\karuu\Desktop\C#\Katmanli-Mimari\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.pdb
+C:\Users\karuu\Desktop\Yeni klasör\C#\Katmanli-Mimari\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.dll.config
+C:\Users\karuu\Desktop\Yeni klasör\C#\Katmanli-Mimari\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.dll
+C:\Users\karuu\Desktop\Yeni klasör\C#\Katmanli-Mimari\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.pdb
+C:\Users\karuu\Desktop\Yeni klasör\C#\Katmanli-Mimari\Northwind.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\karuu\Desktop\Yeni klasör\C#\Katmanli-Mimari\Northwind.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\karuu\Desktop\Yeni klasör\C#\Katmanli-Mimari\Northwind.DataAccess\bin\Debug\Northwind.Entitys.dll
+C:\Users\karuu\Desktop\Yeni klasör\C#\Katmanli-Mimari\Northwind.DataAccess\bin\Debug\Northwind.Entitys.pdb
+C:\Users\karuu\Desktop\Yeni klasör\C#\Katmanli-Mimari\Northwind.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\karuu\Desktop\Yeni klasör\C#\Katmanli-Mimari\Northwind.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\karuu\Desktop\Yeni klasör\C#\Katmanli-Mimari\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csproj.AssemblyReference.cache
+C:\Users\karuu\Desktop\Yeni klasör\C#\Katmanli-Mimari\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\karuu\Desktop\Yeni klasör\C#\Katmanli-Mimari\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csproj.CopyComplete
+C:\Users\karuu\Desktop\Yeni klasör\C#\Katmanli-Mimari\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.dll
+C:\Users\karuu\Desktop\Yeni klasör\C#\Katmanli-Mimari\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.pdb

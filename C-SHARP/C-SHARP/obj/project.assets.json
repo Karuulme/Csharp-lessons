@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\C-SHARP\\C-SHARP.csproj",
+      "projectUniqueName": "C:\\Users\\karuu\\Desktop\\Yeni klasör\\C#\\C-SHARP\\C-SHARP\\C-SHARP.csproj",
       "projectName": "C-SHARP",
-      "projectPath": "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\C-SHARP\\C-SHARP.csproj",
+      "projectPath": "C:\\Users\\karuu\\Desktop\\Yeni klasör\\C#\\C-SHARP\\C-SHARP\\C-SHARP.csproj",
       "packagesPath": "C:\\Users\\karuu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\C-SHARP\\obj\\",
+      "outputPath": "C:\\Users\\karuu\\Desktop\\Yeni klasör\\C#\\C-SHARP\\C-SHARP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\karuu\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6pPZ+XyIuKPhS+Tft7cGLpP+exjB1yalc325FmOVjXveKidiZzFFZo/pmU8aMFJcughhkUy1hTbZCR1vPkPvaA==",
+  "dgSpecHash": "HbFWFYjbotxrjFXEPz2HA5RKz85uA+SiN5/FuDNhjNxqsvTqmCdMwhI+oMCnU0PlqqigaeXmc9WCFpknEpBLwA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\AdoNet\\AdoNet.csproj",
+  "projectFilePath": "C:\\Users\\karuu\\Desktop\\Yeni klasör\\C#\\C-SHARP\\AdoNet\\AdoNet.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\karuu\\.nuget\\packages\\azure.core\\1.6.0\\azure.core.1.6.0.nupkg.sha512",
     "C:\\Users\\karuu\\.nuget\\packages\\azure.identity\\1.3.0\\azure.identity.1.3.0.nupkg.sha512",

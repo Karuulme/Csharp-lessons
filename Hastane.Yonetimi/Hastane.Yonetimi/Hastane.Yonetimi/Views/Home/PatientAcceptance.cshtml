@@ -1,0 +1,250 @@
+﻿
+@{
+    ViewBag.Title = "PatientAcceptance";
+}
+<link href="~/Css-stil/IndexMain.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+<h2 style="font-weight:100;text-align:center;margin-top:50px;">HASTA KABULU</h2>
+<table class="HKabulTablo">
+    <form>
+    <tr>
+        <td width="50%"><div class="input_name">Adı</div></td>
+        <td><div class="input_name">Soyadı</div></td>
+
+    </tr>
+    <tr>
+        <td>      <input type="text" id="searchKey" placeholder="Adınız..." name="HName" class="FirstName" /></td>
+        <td>      <input type="text" id="searchKey" placeholder="Soyadınız..." name="HSName" class="LastName" /></td>
+
+    </tr>
+    <tr>
+        <td width="50%"><div class="input_name">Tc Kimlik No</div></td>
+        <td><div class="input_name">Tel. No</div></td>
+
+    </tr>
+    <tr>
+        <td>      <input type="text" id="searchKey" placeholder="Tc Kimlik Numaranız..." name="HTc" class="Tc" /></td>
+        <td>      <input type="text" id="searchKey" placeholder="Telefon Numaranız..." name="HTNo" class="Tel" /></td>
+
+    </tr>
+
+    <div class="devamAlani"><span id="Load"><img src="~/Image/load.gif" width="65" /></span> <button id="next"> <i class="fa fa-angle-double-right" aria-hidden="true"></button></i></div>
+
+    </form>
+</table>
+
+<table id="HKabulTabloAbout">
+    <tr>
+        <td> <input type="text" id="searchKey" placeholder="Hastanın Şikayeti..." name="HSikayet" class="HSikayet" /> </td>
+    </tr>
+    <tr>
+        <td>
+            <form>
+                <div class="radio-group">
+                    <form>
+                        <input type="radio" id="option-one" name="selector" value="0">
+                        <label for="option-one">Normal</label>
+
+                        <input type="radio" id="option-two" name="selector" value="1">
+                        <label for="option-two">Kritik</label>
+
+                        <input type="radio" id="option-three" name="selector" value="2">
+                        <label for="option-three">Açil</label>
+                    </form>
+                </div>
+            </form>
+        </td>
+
+
+
+    </tr>
+    <tr>
+        <td>
+
+
+            <select class="select">
+                <option value="0" class="options">Alan:</option>
+                <option value="1" class="options">Ateş</option>
+                <option value="2" class="options">Kırık Çıkık</option>
+                <option value="3" class="options">Zehirlenme</option>
+                <option value="4" class="options">Kulak Burun Boğaz</option>
+
+            </select>
+
+
+
+        </td>
+    </tr>
+    <tr>
+        <td >
+
+            <div class="selectDocker" >
+
+
+
+            </div>
+          
+    
+
+
+
+        </td>
+    </tr>
+    <tr><td ><button id="finis" style=" padding: 13px;margin-top:20px; width: 100%; border: 0px solid black; color: #fff; background: #22d47c; box-shadow: 0 4px 10px 0 rgb(34 212 124), 0 4px 20px 0 rgb(0 0 0 / 19%); ">KAYDI TAMAMLA</button></td></tr>
+</table>
+
+
+
+
+
+
+
+<script src="https://code.jquery.com/jquery-3.5.0.js"></script>
+
+<script>
+
+    $(document).ready(function () {
+        $("#finis").hide();
+
+        $("#finis").click(function () {
+
+             $.ajax({
+                        url: '@Url.Action("PatientAcceptanceControl", "Home")',
+                        type: 'POST',
+                        dataType: 'Json',
+                           data: { patientAcceptance: Data },
+                         success: function (data) {
+                             alert(data);
+                             if (data != null) {
+
+                                 $(".HKabulTablo").hide();
+
+                             }
+
+                             $("#next").show();
+                             $("#Load").hide();
+
+
+                               }
+
+
+
+                    })
+
+
+        })
+
+
+        $(document).on('change',"select", function () {
+               if (this.value >= 50) {
+
+                $("#finis").show();
+            }
+
+
+
+        });
+
+
+
+
+
+        $('.select').on('change', function () {
+            //ways to retrieve selected option and text outside handler
+            var nameKey = $(this).find('option').filter(':selected').text();
+
+            if (this.value!=0) {
+
+
+
+
+                $.ajax({
+                    url: '@Url.Action("SelectKey", "Home")',
+                    type: 'POST',
+                    dataType: 'Json',
+                    data: { selectKey: nameKey },
+                    success: function (data) {
+
+                        if (data != null) {
+                            var html = '';
+                            var sayac =101;
+                            html += '   <select class="select2">';
+                            html += "<option value='" + 0 + "'>Doktorunuzu Seçiniz:</option>",
+                                console.log(html);
+                                jQuery.each(data, function (key, value) {
+                                    html += "<option value='" + sayac + "'>" + value + "</option>";
+
+
+                                sayac++;
+
+                                });
+                            html += '</select>';
+                            $(".selectDocker").html(html);
+                       //     document.getElementById(".selectDocker").innerHTML = html;
+
+
+                        }
+                    }
+
+
+
+                })
+            }
+
+
+        });
+
+            $("#Load").hide();
+            $(".HKabulTablo").hide();
+            $(".devamAlani").hide();
+            $("#next").click(function () {
+                $("#next").hide();
+                $("#Load").show();
+                var isim = $(".FirstName").val();
+                var soyisim = $(".LastName").val();
+                var tc = $(".Tc").val();
+                var tel = $(".Tel").val();
+
+                var Data = {
+                    FirstName: isim,
+                    LastName: soyisim,
+                    Tc: tc,
+                    Tel:tel
+
+
+                }
+
+                       $.ajax({
+                        url: '@Url.Action("PatientAcceptanceControl", "Home")',
+                        type: 'POST',
+                        dataType: 'Json',
+                           data: { patientAcceptance: Data },
+                         success: function (data) {
+                             alert(data);
+                             if (data != null) {
+
+                                 $(".HKabulTablo").hide();
+
+                             }
+
+                             $("#next").show();
+                             $("#Load").hide();
+
+
+                               }
+
+
+
+                    })
+            })
+
+
+
+
+
+
+
+        })
+
+</script>

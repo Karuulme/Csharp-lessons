@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\Generics\\Generics.csproj",
+      "projectUniqueName": "C:\\Users\\karuu\\Desktop\\Yeni klasör\\C#\\C-SHARP\\Generics\\Generics.csproj",
       "projectName": "Generics",
-      "projectPath": "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\Generics\\Generics.csproj",
+      "projectPath": "C:\\Users\\karuu\\Desktop\\Yeni klasör\\C#\\C-SHARP\\Generics\\Generics.csproj",
       "packagesPath": "C:\\Users\\karuu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\Generics\\obj\\",
+      "outputPath": "C:\\Users\\karuu\\Desktop\\Yeni klasör\\C#\\C-SHARP\\Generics\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\karuu\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\Reflection\\Reflection.csproj": {}
+    "C:\\Users\\karuu\\Desktop\\Yeni klasör\\C#\\C-SHARP\\Reflection\\Reflection.csproj": {}
   },
   "projects": {
-    "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\Reflection\\Reflection.csproj": {
+    "C:\\Users\\karuu\\Desktop\\Yeni klasör\\C#\\C-SHARP\\Reflection\\Reflection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\Reflection\\Reflection.csproj",
+        "projectUniqueName": "C:\\Users\\karuu\\Desktop\\Yeni klasör\\C#\\C-SHARP\\Reflection\\Reflection.csproj",
         "projectName": "Reflection",
-        "projectPath": "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\Reflection\\Reflection.csproj",
+        "projectPath": "C:\\Users\\karuu\\Desktop\\Yeni klasör\\C#\\C-SHARP\\Reflection\\Reflection.csproj",
         "packagesPath": "C:\\Users\\karuu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\Reflection\\obj\\",
+        "outputPath": "C:\\Users\\karuu\\Desktop\\Yeni klasör\\C#\\C-SHARP\\Reflection\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\karuu\\AppData\\Roaming\\NuGet\\NuGet.Config",

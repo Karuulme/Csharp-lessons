@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\Delegates\\Delegates.csproj": {}
+    "C:\\Users\\karuu\\Desktop\\Yeni klasör\\C#\\C-SHARP\\Delegates\\Delegates.csproj": {}
   },
   "projects": {
-    "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\Delegates\\Delegates.csproj": {
+    "C:\\Users\\karuu\\Desktop\\Yeni klasör\\C#\\C-SHARP\\Delegates\\Delegates.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\Delegates\\Delegates.csproj",
+        "projectUniqueName": "C:\\Users\\karuu\\Desktop\\Yeni klasör\\C#\\C-SHARP\\Delegates\\Delegates.csproj",
         "projectName": "Delegates",
-        "projectPath": "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\Delegates\\Delegates.csproj",
+        "projectPath": "C:\\Users\\karuu\\Desktop\\Yeni klasör\\C#\\C-SHARP\\Delegates\\Delegates.csproj",
         "packagesPath": "C:\\Users\\karuu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\karuu\\Desktop\\C#\\C-SHARP\\Delegates\\obj\\",
+        "outputPath": "C:\\Users\\karuu\\Desktop\\Yeni klasör\\C#\\C-SHARP\\Delegates\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\karuu\\AppData\\Roaming\\NuGet\\NuGet.Config",

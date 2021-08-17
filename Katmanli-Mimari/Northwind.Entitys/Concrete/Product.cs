@@ -15,5 +15,7 @@ namespace Northwind.Entitys.Concrete
         public decimal UnitPrice { get; set; }
         public string QuantityPerUnit { get; set; }
         public Int16 UnitsInStock { get; set; }
+       
+      
     }
 }
